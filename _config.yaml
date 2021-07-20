@@ -1,8 +1,8 @@
 ### basic settings
 
 # site properties and page defaults
-title: Kong Lab
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+title: The Kong Lab
+description: Team, Research, Tools and more from the Kong Lab.
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
@@ -10,12 +10,12 @@ baseurl: ""
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
-  github: your-lab
+  email: xiangzhen.kong@zju.edu.cn
+  google-scholar: Xiang-Zhen Kong
+  github: kongxlab
   twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  #instagram: YourLabHandle
+  #youtube: YourLabChannel
 
 # automatic citations
 auto-cite:
