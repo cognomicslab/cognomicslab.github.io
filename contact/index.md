@@ -10,6 +10,8 @@ nav:
 Our lab is part of the [Department of Psychology and Behavioral Sciences](http://www.psych.zju.edu.cn/), at the [Zhejiang University](https://www.zju.edu.cn/).
 We are currently located on the 10th floor of the Main Building (教学主楼) at the Xixi campus in Hangzhou, China.
 
+{% include section.html %}
+
 {%
   include link.html
   type="email"
@@ -37,7 +39,7 @@ We are currently located on the 10th floor of the Main Building (教学主楼) a
   link="https://j.map.baidu.com/37/PYHJ"
   style="button"
 %}
-
+{:.center}
 
 {% capture col1 %}
 {%
