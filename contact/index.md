@@ -19,15 +19,6 @@ We are currently located on the 10th floor of the Main Building (教学主楼) a
   link="xiangzhen.kong@zju.edu.cn"
   style="button"
 %}
-#{%
-#  include link.html
-#  type="phone"
-#  icon=""
-#  text="(555) 867-5309"
-#  tooltip=""
-#  link="+1-555-867-5309"
-#  style="button"
-#%}
 {%
   include link.html
   type="address"
