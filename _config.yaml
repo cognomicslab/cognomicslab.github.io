@@ -1,9 +1,9 @@
 ### basic settings
 
 # site properties and page defaults
-title: The Kong Lab
+title: 
 description: Team, Research, Tools and more from the Kong Lab.
-logo: images/cl.png
+logo: images/cl.jpg
 header: images/intro-bg.jpg
 footer: images/intro-bg.jpg
 baseurl: ""
