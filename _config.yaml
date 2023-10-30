@@ -1,9 +1,9 @@
 ### basic settings
 
 # site properties and page defaults
-title: >
-description: 
-logo: images/cl0.png
+title: Cognomics Lab
+description: 1 2 3
+logo: images/logo.png
 header: images/intro-bg.jpg
 footer: images/intro-bg.jpg
 baseurl: ""
