@@ -3,7 +3,7 @@
 # site properties and page defaults
 title: The Kong Lab
 description: Team, Research, Tools and more from the Kong Lab.
-logo: images/cl.pnb
+logo: images/cl.png
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: ""
@@ -12,7 +12,7 @@ baseurl: ""
 links:
   email: xiangzhen.kong@zju.edu.cn
   google-scholar: AGsaPnQAAAAJ
-  github: kongxlab
+  github: cognomicslab
   twitter: xiangzhenkong
   #instagram: YourLabHandle
   #youtube: YourLabChannel
