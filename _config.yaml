@@ -3,7 +3,7 @@
 # site properties and page defaults
 title: 
 description: Team, Research, Tools and more from the Kong Lab.
-logo: images/cl.jpg
+logo: images/cl.png
 header: images/member.jpg
 footer: images/intro-bg.jpg
 baseurl: ""
