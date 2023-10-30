@@ -1,9 +1,9 @@
 ### basic settings
 
 # site properties and page defaults
-title: _
+title: >
 description: 
-logo: images/cl2.png
+logo: images/cl0.png
 header: images/intro-bg.jpg
 footer: images/intro-bg.jpg
 baseurl: ""
