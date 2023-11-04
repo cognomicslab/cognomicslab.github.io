@@ -7,10 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We are an interdisciplinary, highly engaged and collaborative team. We recognize that diverse teams in terms of personality, culture, and educational background do better research. The team includes postdocs, students at all levels, and staff.
 
 {% include section.html %}
 
@@ -63,11 +60,11 @@ Our work is made possible by funding from several organizations.
   link1="https://www.nsfc.gov.cn/"
   tooltip1="NSFC"
 
-  image2="images/zju.jpg"
+  image2="images/zju.png"
   link2="https://www.zju.edu.cn/main.htm"
   tooltip2="ZJU"
 
-  image3="images/most.jpg"
+  image3="images/most.png"
   link3="https://www.most.gov.cn/index.html"
   tooltip3="MoST"
 
