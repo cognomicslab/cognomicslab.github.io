@@ -2,7 +2,7 @@
 title: Join the Team
 ---
 
-# {% include icon.html icon="fa-solid fa-handshake-angle" %}Join the Team
+# <i class="fas fa-hands-helping"></i>Join the Team
 
 You can learn a bit about working in the lab by reading our [google scholar](https://scholar.google.com/citations?hl=en&user=AGsaPnQAAAAJ).
 Positions across our department, including in our lab, for staff and postdocs are usually listed on the [offical website](http://www.psych.zju.edu.cn/27566/list.htm).
