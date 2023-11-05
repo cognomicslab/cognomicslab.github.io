@@ -7,34 +7,18 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-We are an interdisciplinary, highly engaged and collaborative team. We recognize that diverse teams in terms of personality, culture, and educational background do better research. The team includes postdocs, students at all levels, and staff.
+We are a highly engaged and collaborative team with people from multiple disciplines. The team consists of postdocs, students at all levels, and staff.
 
 {% include section.html %}
 
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: pi"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: phd"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: programmer"
-%}
+{% include list.html data="members" component="portrait" filters="role: pi" %}
+{% include list.html data="members" component="portrait" filters="role: phd" %}
+{% include list.html data="members" component="portrait" filters="role: programmer" %}
 {:.center}
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Diverse teams do better research. We are committed to providing an inclusive environment and welcome candidates from diverse culture and educational backgrounds.
 
 {%
   include link.html
@@ -44,6 +28,19 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   style="button"
 %}
 {:.center}
+
+{% include section.html %}
+
+## Alumni
+
+These are past lab members who have moved on to Cambridge University, Boston University, Ludwig Maximilian University of Munich, other school programs, new jobs, or elsewhere.
+
+{% include list.html data="members" component="portrait" filters="role: pi, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: phd, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: programmer, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: mascot, group: alum" style="small" %}
 
 {% include section.html %}
 
